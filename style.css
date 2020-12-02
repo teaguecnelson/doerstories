@@ -45,7 +45,7 @@ div.centered-txt {
   text-align: center;
 }
 
-img.main-img {
+div.main-img-wrapper {
     max-width: 60%;
     margin: 70px auto 40px;
 }
