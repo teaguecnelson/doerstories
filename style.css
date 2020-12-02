@@ -43,6 +43,8 @@ a:visited {
 
 div.centered-txt {
   text-align: center;
+  margin-top: 70px;
+  margin-bottom: 40px;
 }
 
 div.main-img-wrapper {
