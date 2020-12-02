@@ -41,8 +41,13 @@ a:visited {
 
 /* =================== */
 
-.centered-txt {
+div.centered-txt {
   text-align: center;
+  color: green !important;
+}
+
+.main-img {
+  margin: 0 auto;
 }
 
 
